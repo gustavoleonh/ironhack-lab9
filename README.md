@@ -61,3 +61,5 @@ The platform has been experiencing challenges with scaling during high-traffic p
 	* Ensure proper authorization and access control for each service.
 
 ### Architecture design:
+
+![Ecomerce-ironhack](https://github.com/gustavoleonh/ironhack-lab9/assets/116121540/bff7c234-7a51-45e7-ac36-ee78d551b2c8)
